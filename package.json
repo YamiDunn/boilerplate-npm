@@ -2,8 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Juan Felipe",
 	"description": "Starter project to learn about Backend",
-	"keywords": ["Starter","learning","knowledge"],
+	"keywords": ["Starter","learning","knowledge","freecodecamp"],
 	"license": "NoOne",
+	"version": "8.11.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
