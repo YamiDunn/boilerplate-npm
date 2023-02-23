@@ -3,6 +3,7 @@
 	"author": "Juan Felipe",
 	"description": "Starter project to learn about Backend",
 	"keywords": ["Starter","learning","knowledge"],
+	"license": "NoOne",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
